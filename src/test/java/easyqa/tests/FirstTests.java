@@ -15,7 +15,7 @@ public class FirstTests {
 
     @BeforeClass(alwaysRun = true)
     public void setUp() throws Exception {
-        Configuration.browser="ie";
+        Configuration.browser="chrome";
       //  Configuration.browserSize="1600x1000";
     }
 

@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="1_main" target="1.8" />
       <module name="1_test" target="1.8" />
+      <module name="ea_main" target="1.8" />
+      <module name="ea_test" target="1.8" />
       <module name="easyqatest_main" target="1.8" />
       <module name="easyqatest_test" target="1.8" />
     </bytecodeTargetLevel>
