@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1_main.iml" group="1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1_test.iml" group="1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyqatest.iml" filepath="$PROJECT_DIR$/.idea/modules/easyqatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyqatest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/easyqatest_main.iml" group="easyqatest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/easyqatest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/easyqatest_test.iml" group="easyqatest" />
+    </modules>
+  </component>
+</project>
