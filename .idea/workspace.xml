@@ -9,17 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d3e6038-d901-4d2d-b38d-6e162585a84f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_qameta_allure_allure_selenide_2_0_BETA22.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_qameta_allure_allure_java_commons_2_0_BETA21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_qameta_allure_allure_java_commons_2_0_BETA22.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ea_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ea_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ea_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ea_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/easyqa/tests/FirstTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/listeners/TestListener$TEST_STATUSES.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/listeners/TestListener.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/easyqa/tests/FirstTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/easyqa/tests/FirstTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/listeners/TestListener.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -80,8 +70,8 @@
       <file leaf-file-name="FirstTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/easyqa/tests/FirstTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -819,9 +809,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTests - 2018.12.23 at 17h 22m 22s.xml">
-      <configuration name="FirstTests" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="FirstTests - 2018.12.23 at 18h 14m 06s.xml">
       <configuration name="FirstTests" configurationId="TestNG" />
     </history-entry>
@@ -849,6 +836,9 @@
     <history-entry file="FirstTests - 2018.12.27 at 13h 05m 32s.xml">
       <configuration name="FirstTests" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="FirstTests - 2018.12.27 at 13h 38m 01s.xml">
+      <configuration name="FirstTests" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="6" width="1824" height="1060" extended-state="0" />
@@ -856,13 +846,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329718" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -1292,8 +1282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/easyqa/tests/FirstTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
