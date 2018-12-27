@@ -10,6 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ea_main" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-selenide:2.0-BETA22" level="project" />
     <orderEntry type="library" name="Gradle: com.codeborne:selenide:5.0.1" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:3.141.5" level="project" />
     <orderEntry type="library" name="Gradle: io.qameta.allure:allure-testng:2.0-BETA21" level="project" />
@@ -36,7 +37,7 @@
     <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Gradle: net.lightbody.bmp:browsermob-core:2.1.5" level="project" />
     <orderEntry type="library" name="Gradle: io.qameta.allure:allure-descriptions-javadoc:2.0-BETA21" level="project" />
-    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-java-commons:2.0-BETA21" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-java-commons:2.0-BETA22" level="project" />
     <orderEntry type="library" name="Gradle: net.lightbody.bmp:littleproxy:1.1.0-beta-bmp-17" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:25.0-jre" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.9" level="project" />
