@@ -12,8 +12,13 @@
     <orderEntry type="module" module-name="ea_main" />
     <orderEntry type="library" name="Gradle: com.codeborne:selenide:5.0.1" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:3.141.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-testng:2.0-BETA21" level="project" />
     <orderEntry type="library" name="Gradle: org.testng:testng:6.14.3" level="project" />
-    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.72" level="project" />
+    <orderEntry type="library" name="Gradle: org.projectlombok:lombok:1.16.18" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-junit4-aspect:2.0-BETA21" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-junit4:2.0-BETA21" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-chrome-driver:3.141.5" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-edge-driver:3.141.5" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-firefox-driver:3.141.5" level="project" />
@@ -30,14 +35,15 @@
     <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
     <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Gradle: net.lightbody.bmp:browsermob-core:2.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-descriptions-javadoc:2.0-BETA21" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure-java-commons:2.0-BETA21" level="project" />
     <orderEntry type="library" name="Gradle: net.lightbody.bmp:littleproxy:1.1.0-beta-bmp-17" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:25.0-jre" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.9" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.11.0" level="project" />
     <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.14.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.beust:jcommander:1.72" level="project" />
     <orderEntry type="library" name="Gradle: org.apache-extras.beanshell:bsh:2.0b6" level="project" />
-    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
     <orderEntry type="library" name="Gradle: commons-io:commons-io:2.6" level="project" />
@@ -45,6 +51,9 @@
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.7" level="project" />
     <orderEntry type="library" name="Gradle: org.rauschig:jarchivelib:0.8.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jsoup:jsoup:1.11.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure2-model-api:1.0-BETA6" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure2-model-jackson:1.0-BETA6" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.7.0" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.9" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.9" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.9" level="project" />
@@ -54,12 +63,17 @@
     <orderEntry type="library" name="Gradle: net.lightbody.bmp:mitm:2.1.5" level="project" />
     <orderEntry type="library" name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.58" level="project" />
     <orderEntry type="library" name="Gradle: org.bouncycastle:bcprov-jdk15on:1.58" level="project" />
+    <orderEntry type="library" name="Gradle: org.aspectj:aspectjrt:1.8.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jooq:joor:0.9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
     <orderEntry type="library" name="Gradle: org.checkerframework:checker-compat-qual:2.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />
     <orderEntry type="library" name="Gradle: com.google.j2objc:j2objc-annotations:1.1" level="project" />
     <orderEntry type="library" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.14" level="project" />
+    <orderEntry type="library" name="Gradle: io.qameta.allure:allure2-model-pojo:1.0-BETA6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tika:tika-core:1.14" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="ea_main" />
 </module>
