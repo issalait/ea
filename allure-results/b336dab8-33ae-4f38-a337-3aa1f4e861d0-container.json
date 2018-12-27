@@ -1,0 +1,1 @@
+{"uuid":"b336dab8-33ae-4f38-a337-3aa1f4e861d0","name":"easyqa.tests.FirstTests","start":1545908702083,"stop":1545908732303,"children":["20b2eb07-a44f-4a6c-9857-812dbb042cbd","08f5ebc1-f1b6-4283-86e1-4232113399e9","817361d2-79f6-481f-b70e-8ee7c335edef"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1545908702114,"stop":1545908702129}]}
